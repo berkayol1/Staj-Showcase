@@ -50,6 +50,7 @@ Belediye ile vatandaş arasındaki iletişim köprüsünü güçlendiren bilgi m
 | <img src="assets/1.png" width="250"> | <img src="assets/5.png" width="250"> | <img src="assets/8.png" width="250"> |
 
 | Etkinlik Takvimi | Başkan Özgeçmiş |
+| :---: | :---: |
 | <img src="assets/3.png" width="250"> | <img src="assets/7.png" width="250"> |
 
 ---
@@ -61,8 +62,9 @@ Kullanıcı deneyimini artıran interaktif özellikler.
 * **🧠 Kartal Bilgi Yarışması:** Kent kültürünü tanıtmak amacıyla geliştirilmiş, oyunlaştırma (gamification) öğeleri içeren interaktif modül.
 
 ### 📸 Ekran Görüntüleri
-| SSS ve Arama | Bilgi Yarışması (Quiz)
-| <img src="assets/2.png" width="250"> | <img src="assets/11.png" width="250">
+| SSS ve Arama | Bilgi Yarışması (Quiz) | Yarışma Sorusu |
+| :---: | :---: | :---: |
+| <img src="assets/2.png" width="250"> | <img src="assets/11.png" width="250"> | <img src="assets/12.png" width="250"> |
 
 ---
 
@@ -70,8 +72,8 @@ Kullanıcı deneyimini artıran interaktif özellikler.
 Bu proje, staj süresince **gerçek dünya senaryoları** üzerine çalışarak; API tüketimi, harita işlemleri ve kurumsal mobil uygulama mimarisi konularında yetkinlik kazanmamı sağlamıştır.
 
 * **Geliştirici:** Berkay Ay
-* **LinkedIn:** linkedin.com/in/berkayay
-* **Email:** berkay81341@gmail.com
+* **LinkedIn:** [Profil Linkiniz]
+* **Email:** [Email Adresiniz]
 
 ---
 *© Bu projenin görsel ve fikir hakları geliştiriciye ve ilgili kuruma aittir.*

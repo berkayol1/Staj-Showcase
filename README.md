@@ -50,7 +50,6 @@ Belediye ile vatandaş arasındaki iletişim köprüsünü güçlendiren bilgi m
 | <img src="assets/1.jpg" width="250"> | <img src="assets/5.png" width="250"> | <img src="assets/8.png" width="250"> |
 
 | Etkinlik Takvimi | Başkan Özgeçmiş |
-| :---: | :---: |
 | <img src="assets/3.png" width="250"> | <img src="assets/7.png" width="250"> |
 
 ---
@@ -63,7 +62,6 @@ Kullanıcı deneyimini artıran interaktif özellikler.
 
 ### 📸 Ekran Görüntüleri
 | SSS ve Arama | Bilgi Yarışması (Quiz)
-| :---: | :---: | :---: |
 | <img src="assets/2.jpg" width="250"> | <img src="assets/11.png" width="250">
 
 ---

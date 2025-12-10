@@ -47,7 +47,7 @@ Belediye ile vatandaş arasındaki iletişim köprüsünü güçlendiren bilgi m
 ### 📸 Ekran Görüntüleri
 | Ana Menü Dashboard | Haberler Akışı | Projeler & Yatırımlar |
 | :---: | :---: | :---: |
-| <img src="assets/1.jpg" width="250"> | <img src="assets/5.png" width="250"> | <img src="assets/1751026344368.png" width="250"> |
+| <img src="assets/1.jpg" width="250"> | <img src="assets/5.png" width="250"> | <img src="assets/8.png" width="250"> |
 
 | Etkinlik Takvimi | Başkan Özgeçmiş |
 | :---: | :---: |
@@ -62,9 +62,9 @@ Kullanıcı deneyimini artıran interaktif özellikler.
 * **🧠 Kartal Bilgi Yarışması:** Kent kültürünü tanıtmak amacıyla geliştirilmiş, oyunlaştırma (gamification) öğeleri içeren interaktif modül.
 
 ### 📸 Ekran Görüntüleri
-| SSS ve Arama | Bilgi Yarışması (Quiz) | Yarışma Sorusu |
+| SSS ve Arama | Bilgi Yarışması (Quiz)
 | :---: | :---: | :---: |
-| <img src="assets/2.jpg" width="250"> | <img src="assets/11.png" width="250"> | <img src="assets/1751462498032.png" width="250"> |
+| <img src="assets/2.jpg" width="250"> | <img src="assets/11.png" width="250">
 
 ---
 

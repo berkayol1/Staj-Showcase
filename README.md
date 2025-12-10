@@ -62,9 +62,9 @@ Kullanıcı deneyimini artıran interaktif özellikler.
 * **🧠 Kartal Bilgi Yarışması:** Kent kültürünü tanıtmak amacıyla geliştirilmiş, oyunlaştırma (gamification) öğeleri içeren interaktif modül.
 
 ### 📸 Ekran Görüntüleri
-| SSS ve Arama | Bilgi Yarışması (Quiz)
-| :---: | :---: | :---: |
-| <img src="assets/2.png" width="250"> | <img src="assets/11.png" width="250">
+| SSS ve Arama | Bilgi Yarışması (Quiz) |
+| :---: | :---: |
+| <img src="assets/2.png" width="250"> | <img src="assets/11.png" width="250"> |
 
 ---
 
@@ -72,7 +72,7 @@ Kullanıcı deneyimini artıran interaktif özellikler.
 Bu proje, staj süresince **gerçek dünya senaryoları** üzerine çalışarak; API tüketimi, harita işlemleri ve kurumsal mobil uygulama mimarisi konularında yetkinlik kazanmamı sağlamıştır.
 
 * **Geliştirici:** Berkay Ay
-* **LinkedIn:** linkedin.com/in/berkayay
+* **LinkedIn:** [linkedin.com/in/berkayay](https://linkedin.com/in/berkayay)
 * **Email:** berkay81341@gmail.com
 
 ---

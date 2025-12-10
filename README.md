@@ -1,6 +1,6 @@
 # 🏛️ Kartal Belediyesi Mobil Hizmetler Prototipi
 
-![Project Banner](assets/4.jpg)
+![Project Banner](assets/4.png)
 
 > **⚠️ Yasal Uyarı / Disclaimer:** Bu proje, **Kartal Belediyesi Bilgi İşlem Müdürlüğü** bünyesindeki staj süresince Ar-Ge ve kavram kanıtı (Proof of Concept) amacıyla geliştirilmiştir. Kurumsal veri gizliliği ve güvenlik protokolleri nedeniyle **kaynak kodlar (source code) paylaşıma kapalıdır.** Bu repo, projenin teknik mimarisini ve UI/UX yetkinliklerini sergilemek amacıyla oluşturulmuştur.
 
@@ -32,7 +32,7 @@ Vatandaşların kent içi ulaşımını ve günlük yaşamını kolaylaştıran 
 ### 📸 Ekran Görüntüleri
 | Ulaşım Haritası (Maps SDK) | Anlık Hava Durumu (API) | E-Belediye Hizmetleri |
 | :---: | :---: | :---: |
-| <img src="assets/9.jpg" width="250"> | <img src="assets/10.jpg" width="250"> | <img src="assets/6.png" width="250"> |
+| <img src="assets/9.png" width="250"> | <img src="assets/10.png" width="250"> | <img src="assets/6.png" width="250"> |
 
 ---
 
@@ -47,11 +47,11 @@ Belediye ile vatandaş arasındaki iletişim köprüsünü güçlendiren bilgi m
 ### 📸 Ekran Görüntüleri
 | Ana Menü Dashboard | Haberler Akışı | Projeler & Yatırımlar |
 | :---: | :---: | :---: |
-| <img src="assets/1.jpg" width="250"> | <img src="assets/5.jpg" width="250"> | <img src="assets/1751026344368.jpg" width="250"> |
+| <img src="assets/1.jpg" width="250"> | <img src="assets/5.png" width="250"> | <img src="assets/1751026344368.png" width="250"> |
 
 | Etkinlik Takvimi | Başkan Özgeçmiş |
 | :---: | :---: |
-| <img src="assets/3.png" width="250"> | <img src="assets/7.jpg" width="250"> |
+| <img src="assets/3.png" width="250"> | <img src="assets/7.png" width="250"> |
 
 ---
 
@@ -64,7 +64,7 @@ Kullanıcı deneyimini artıran interaktif özellikler.
 ### 📸 Ekran Görüntüleri
 | SSS ve Arama | Bilgi Yarışması (Quiz) | Yarışma Sorusu |
 | :---: | :---: | :---: |
-| <img src="assets/2.jpg" width="250"> | <img src="assets/11.png" width="250"> | <img src="assets/1751462498032.jpg" width="250"> |
+| <img src="assets/2.jpg" width="250"> | <img src="assets/11.png" width="250"> | <img src="assets/1751462498032.png" width="250"> |
 
 ---
 
